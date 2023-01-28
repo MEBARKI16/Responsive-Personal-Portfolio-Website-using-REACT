@@ -3,9 +3,7 @@
     margin-left: auto;
     margin-right: auto;
 }
-.grid {
-    display: grid;
-}
+
 .div1 {
     display: flex;
     flex-direction: row-reverse;
