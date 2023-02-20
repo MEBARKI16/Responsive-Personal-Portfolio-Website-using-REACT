@@ -1,8 +1,8 @@
 import '../styles/Skills.css'
-import {IoIosArrowDown} from 'react-icons/io'
-import {BsBraces} from 'react-icons/bs'
-import {FaSwatchbook} from 'react-icons/fa'
-import {VscServerEnvironment} from 'react-icons/vsc'
+//import {IoIosArrowDown} from 'react-icons/io'
+//import {BsBraces} from 'react-icons/bs'
+//import {FaSwatchbook} from 'react-icons/fa'
+//import {VscServerEnvironment} from 'react-icons/vsc'
 const Skills = () => {
     const x1 = {width : '90%'};
     const x2 = {width : '80%'};

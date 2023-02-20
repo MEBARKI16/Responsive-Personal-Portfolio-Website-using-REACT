@@ -1,6 +1,6 @@
-import { TbAward } from 'react-icons/tb'
-import { GiSuitcase } from 'react-icons/gi'
-import { FiHeadphones } from 'react-icons/fi'
+//import { TbAward } from 'react-icons/tb'
+//import { GiSuitcase } from 'react-icons/gi'
+//import { FiHeadphones } from 'react-icons/fi'
 import '../styles/About.css'
 import img from '../imgs/amine2.jpg'
 const About = () => {

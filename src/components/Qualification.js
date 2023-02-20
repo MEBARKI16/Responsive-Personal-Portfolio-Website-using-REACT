@@ -1,7 +1,7 @@
 import '../styles/Qualification.css'
-import {RxCalendar} from 'react-icons/rx'
-import {FaGraduationCap} from 'react-icons/fa'
-import {BsBriefcase} from 'react-icons/bs'
+//import {RxCalendar} from 'react-icons/rx'
+//import {FaGraduationCap} from 'react-icons/fa'
+//import {BsBriefcase} from 'react-icons/bs'
 const Qualification = () => {
     return (
         <section className='qualification section'>

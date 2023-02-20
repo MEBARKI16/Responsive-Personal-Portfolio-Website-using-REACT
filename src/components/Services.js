@@ -1,6 +1,6 @@
 import '../styles/Services.css'
-import {FaConnectdevelop} from 'react-icons/fa'
-import {MdKeyboardArrowRight} from 'react-icons/md'
+//import {FaConnectdevelop} from 'react-icons/fa'
+//import {MdKeyboardArrowRight} from 'react-icons/md'
 const Services = () => {
     const x = {display:'block' ,fontSize:'1.8rem' , color:'var(--skin-color)', marginBottom:'var(--md-1)' }
     return (
