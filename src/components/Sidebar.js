@@ -1,5 +1,5 @@
 import "../styles/Sidebar.css";
-import {BiShareAlt} from 'react-icons/bi';
+//import {BiShareAlt} from 'react-icons/bi';
 const Sidebar = () => {
     return (
         <aside className="sidebar" id="sidebar">
