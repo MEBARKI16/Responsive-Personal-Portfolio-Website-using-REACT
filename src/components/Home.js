@@ -1,11 +1,11 @@
 import '../styles/Home.css'
-//import { FaFacebook } from 'react-icons/fa'
-//import { BsInstagram } from 'react-icons/bs'
-//import { BsTwitter } from 'react-icons/bs'
-//import { BiUser } from 'react-icons/bi'
-//import { BsWhatsapp } from 'react-icons/bs'
-//import { BsMessenger } from 'react-icons/bs'
-//import { FaEnvelopeOpenText } from 'react-icons/fa'
+import { FaFacebook } from 'react-icons/fa'
+import { BsInstagram } from 'react-icons/bs'
+import { BsTwitter } from 'react-icons/bs'
+import { BiUser } from 'react-icons/bi'
+import { BsWhatsapp } from 'react-icons/bs'
+import { BsMessenger } from 'react-icons/bs'
+import { FaEnvelopeOpenText } from 'react-icons/fa'
 const Home = () => {
     let x = { fontSize:'1.8rem', color:'var(--skin-color)', marginRight:'var(--mb-0-75)'};
 return (
