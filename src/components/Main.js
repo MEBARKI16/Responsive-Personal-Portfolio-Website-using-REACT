@@ -4,6 +4,8 @@ import Qualification from "./Qualification";
 import Skills from "./Skills";
 import Services from "./Services";
 import Testimonials from "./Testimonials";
+import Contact from "./Contact"
+import Footer from "./Footer";
 import '../styles/Main.css'
 import '../styles/Reusable-css-classes.css'
 
@@ -16,6 +18,8 @@ const Main = () => {
            <Skills />
            <Services />
            <Testimonials />
+           <Contact />
+           <Footer />
         </div>
     );
 
